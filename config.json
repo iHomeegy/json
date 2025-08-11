@@ -78,6 +78,13 @@
   "disable_usb_debugging": true,
   "browser_allow_list_urls": "",
   "visible_apps": "live.weather.vitality.local.channel.forecast,com.amazon.dee.app,com.egycad.cadio,com.weawow,com.spotify.music,com.google.android.apps.chromecast.app,com.tuya.smart",
+  "install_apps": [
+    {
+	  "package": "com.coolkit",
+	  "version": 2025070806,
+	  "url": "https://archive.org/download/ewelink-5-18-0/ewelink-5-18-0.apk"
+	  }
+  ],
   "display_timeout": 60,
   "always_wake_device": true,
   "show_restart_app_menu": false,
