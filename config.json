@@ -1,11 +1,4 @@
 {
-  "install_apps": [
-	{
-	  "package": "com.coolkit",
-	  "version": 2025070806,
-	  "url": "https://drive.usercontent.google.com/download?id=1murTXCvItwPZ1yWFEsT73JycpOyRakut&export=download&confirm=t&uuid=03893497-3b9f-4dcd-a6c3-9f3ed1e52786"
-	}
-  ]
   "browser_clear_data_on_exit": true,
   "connectivity_panel_enabled": false,
   "multitap_settings": true,
@@ -102,4 +95,11 @@
   "app_text_label_colour": "#FFFFFF",
   "browser_hide_toolbar": false,
   "settings_password": "100100"
+  "install_apps": [
+	{
+	  "package": "com.coolkit",
+	  "version": 2025070806,
+	  "url": "https://drive.usercontent.google.com/download?id=1murTXCvItwPZ1yWFEsT73JycpOyRakut&export=download&confirm=t&uuid=03893497-3b9f-4dcd-a6c3-9f3ed1e52786"
+	}
+]
 }
