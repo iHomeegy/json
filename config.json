@@ -83,7 +83,7 @@
 	  "package": "com.coolkit",
 	  "version": 2025070806,
 	  "url": "https://archive.org/download/ewelink-5-18-0/ewelink-5-18-0.apk"
-	  }
+	}
   ],
   "display_timeout": 60,
   "always_wake_device": true,
