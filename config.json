@@ -39,7 +39,7 @@
   "custom_app_title": "iHomeegy",
   "theme": "Custom",
   "browser_clear_cache_on_reload": false,
-  "browser_user_agent": "Default",
+  "browser_user_agent": "Desktop",
   "keep_screen_on": false,
   "hide_status_bar": false,
   "browser_clear_forms_on_reload": false,
