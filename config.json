@@ -21,7 +21,7 @@
   "suppress_error_dialogs": true,
   "serial_number_source": "DEFAULT",
   "disable_factory_reset": true,
-  "enable_logging": false,
+  "enable_logging": true,
   "show_clear_app_data_menu": false,
   "mobile_network_settings_enabled": false,
   "hide_toolbar": true,
