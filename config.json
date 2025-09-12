@@ -88,6 +88,11 @@
 	  "package": "com.ezviz",
 	  "version": 1292,
 	  "url": "https://archive.org/download/ezviz-6-7-9-0507/ezviz-6-7-9-0507.apk"
+	},
+	{
+	  "package": "io.homeassistant.companion.android",
+	  "version": 17742,
+	  "url": "https://github.com/home-assistant/android/releases/download/2025.9.2/app-full-release.apk"
 	}
   ],
   "display_timeout": 180,
