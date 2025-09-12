@@ -75,7 +75,7 @@
   "browser_user_agent_custom": "custom",
   "automatic_config_download_frequency": 15,
   "clear_app_data_screen_on": false,
-  "disable_usb_debugging": true,
+  "disable_usb_debugging": false,
   "browser_allow_list_urls": "",
   "visible_apps": "com.ezviz,com.connect.enduser,live.weather.vitality.local.channel.forecast,com.amazon.dee.app,com.egycad.cadio,com.weawow,com.spotify.music,com.google.android.apps.chromecast.app,com.tuya.smart",
   "install_apps": [
