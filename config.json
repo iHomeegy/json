@@ -58,7 +58,7 @@
   "disable_safe_mode": true,
   "control_wifi_state": false,
   "browser_show_back_icon": true,
-  "browser_allow_file_downloads": false,
+  "browser_allow_file_downloads": true,
   "sleep_power_disconnect": false,
   "app_icon_size": 75,
   "clear_data_apps": "",
