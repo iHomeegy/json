@@ -45,7 +45,7 @@
   "browser_clear_forms_on_reload": false,
   "browser_show_forward_icon": true,
   "hide_menu_items": true,
-  "screen_brightness": 240,
+  "screen_brightness": 255,
   "volume_controls_enabled": true,
   "browser_search_provider_url": "https://www.google.com/search?q\u003d",
   "browser_show_address_bar": true,
