@@ -95,6 +95,11 @@
 	  "url": "https://github.com/home-assistant/android/releases/download/2025.9.2/app-full-release.apk"
 	}
   ],
+  "uninstall_apps": [
+	{
+		"package": "net.humblegames.brightnesscontroldimmer"
+	}
+  ],
   "display_timeout": 180,
   "always_wake_device": true,
   "show_restart_app_menu": false,
